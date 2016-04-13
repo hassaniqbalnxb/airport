@@ -1,0 +1,9 @@
+1) Did'nt implement the login system due to the shortage of time.
+
+2) Implemented the API to seach airports with their codes in codeignitor.
+
+3) The url will be http://localhost/airport/index.php/api/search/100
+
+4) Currently 4 airports are in the database: 100,200, 300, 400
+
+5) Database name: airport
